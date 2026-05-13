@@ -104,4 +104,4 @@ int main()
 
 # RESULT
 
-Thus the implementation of ceasar cipher had been executed successfully.
+Thus the implementation of Rail Fence Cipher had been executed successfully.
